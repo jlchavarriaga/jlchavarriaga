@@ -2,7 +2,7 @@
 ## Soy Jorge Chavarriaga Vargas
 #### 
 Bienvenido a mi perfil de GitHub.  
-Soy un apasionado Ingeniero de Sistemas  
+Ingeniero de Sistemas, apasionado por la tecnologia  
 Especialización Tecnologica en seguridad y gestion de Bases de Datos  
 Especialización en Desarrollo de software (en espera de graduación)
 
@@ -10,12 +10,12 @@ Especialización en Desarrollo de software (en espera de graduación)
 
 ## Habilidades
 
--  **Python**  &nbsp;&nbsp;    - ██████████████████████████████░░░░░░░ 75%
+-  **Python**  &nbsp;   - ██████████████████████████████░░░░░░░ 75%
 - **-FastAPI**   - ███████████████████████████░░░░░░░░░░ 70%
 - **-Django**      - ███████████████████████████░░░░░░░░░░ 70%
-- **PHP**           - ██████████████████████░░░░░░░░░░░░░░░ 60%
+- **PHP**  &nbsp;          - ██████████████████████░░░░░░░░░░░░░░░ 60%
 - **-laravel**  - ██████████████████████░░░░░░░░░░░░░░░ 60%
-- **Java**       - ████████████████████░░░░░░░░░░░░░░░░░ 45%
+- **Java**  &nbsp;      - ████████████████████░░░░░░░░░░░░░░░░░ 45%
 
 ## Enlaces
 
