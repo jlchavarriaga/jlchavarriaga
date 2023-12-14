@@ -3,17 +3,16 @@
 #### 
 Bienvenido a mi perfil de GitHub.  
 Soy un apasionado Ingeniero de Sistemas  
-Esp Tecnologica en seguridad y gestion de Bases de Datos
-
-En espera del grado de Especialiazión en Desarrollo de software
+Especialización Tecnologica en seguridad y gestion de Bases de Datos
+Especialiazión en Desarrollo de software (en espera de graduación)
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/jlchavarriaga?cardType=level&theme=github-dark&preferLogin=true)](https://git.io/awesome-stats-card)
 
 ## Habilidades
 
 -  **Python**      - ██████████████████████████████░░░░░░░ 75%
-- **-FastAPI**  - ███████████████████████████░░░░░░░░░░ 70%
-- **-Django**   - ███████████████████████████░░░░░░░░░░ 70%
+- **-FastAPI**     - ███████████████████████████░░░░░░░░░░ 70%
+- **-Django**      - ███████████████████████████░░░░░░░░░░ 70%
 - **PHP**           - ██████████████████████░░░░░░░░░░░░░░░ 60%
 - **-laravel**  - ██████████████████████░░░░░░░░░░░░░░░ 60%
 - **Java**       - ████████████████████░░░░░░░░░░░░░░░░░ 45%
