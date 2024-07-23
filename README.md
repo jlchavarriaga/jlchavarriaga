@@ -2,9 +2,9 @@
 ## Soy Jorge Chavarriaga Vargas
 #### 
 Bienvenido a mi perfil de GitHub.  
-Ingeniero de Sistemas, apasionado por la tecnologia  
-Especialización Tecnologica en seguridad y gestion de Bases de Datos  
-Especialización en Desarrollo de software (en espera de graduación)
+Ingeniero de Sistemas, apasionado por la tecnologia.  
+Especialización Tecnologica en seguridad y gestion de Bases de Datos.  
+Especialización en Desarrollo de software.
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/jlchavarriaga?cardType=level&theme=github-dark&preferLogin=true)](https://git.io/awesome-stats-card)
 
