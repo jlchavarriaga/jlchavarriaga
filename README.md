@@ -18,8 +18,9 @@ Especialización en Desarrollo de software.
 - **Java**  &nbsp;      - ████████████████████░░░░░░░░░░░░░░░░░ 45%
 
 ## Enlaces
+- <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-https://www.linkedin.com/in/jlchavarriaga/-blue">
+- <img alt="Static Badge" src="https://img.shields.io/badge/Gmail-jlchavarriaga@gmail.com-red">
 
-- [LinkedIn](https://www.linkedin.com/in/tu-usuario-linkedin/)
 
   
 <!--
